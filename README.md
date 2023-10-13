@@ -1,3 +1,3 @@
-# This is loacl repository
+# This is local repository
 
-Author -Megha singh
+Author -Megha Singh
